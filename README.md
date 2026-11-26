@@ -1,4 +1,4 @@
-﻿Aufgaben – Nebenläufigkeit und Threads
+﻿
 
 Name: Jonas Fuchs
 Matrikelnummer: 1603814
